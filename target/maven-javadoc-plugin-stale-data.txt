@@ -1,0 +1,43 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'castro_lamas_miguel_ED04_Tarea 1.0 API'
+-use
+-version
+-windowtitle
+'castro_lamas_miguel_ED04_Tarea 1.0 API'
+cuentas
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/src/main/java = 1709932803309
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/module-search-index.js = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/package-search-index.js = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/member-search-index.js = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/stylesheet.css = 1709933574476
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/index-all.html = 1709933574464
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/element-list = 1709933574380
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/type-search-index.js = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/allpackages-index.html = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/index.html = 1709933574468
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/script.js = 1709933574476
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/copy.svg = 1709933574476
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/search.js = 1709933574480
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/overview-tree.html = 1709933574420
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/help-doc.html = 1709933574472
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/jquery-ui.overrides.css = 1709933574488
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/tag-search-index.js = 1709933574444
+/home/miguel-castro/NetBeansProjects/castro_lamas_miguel_ED04_Tarea/target/site/apidocs/allclasses-index.html = 1709933574440
